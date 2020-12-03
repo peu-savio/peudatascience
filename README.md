@@ -7,7 +7,7 @@
 # Pedro Flor
 <sub>*Estudante de Ciência da Computação*</sub>
 
-**Background in:** Python, Machine Learning.
+**Experiência:** Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/peusavio/)
