@@ -14,6 +14,5 @@
 
 
 ## Projetos:
-
-*
+* [Analisando os Dados do Airbnb de Oakland](https://colab.research.google.com/github/peu-savio/peudatascience/blob/main/Analisando_os_Dados_do_Airbnb(Oakland).ipynb)
 ---
