@@ -7,7 +7,7 @@
 # Pedro Flor
 <sub>*Estudante de Ciência da Computação*</sub>
 
-**Experiência:** Python.
+**Experiência:** Python, R, SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/peusavio/)
